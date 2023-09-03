@@ -22,7 +22,7 @@ A repository for the DOL-PD project, implementing USB-C PD support for the Gamec
 * [Install Instructions](https://docs.google.com/document/d/1jQh1p8UBnYjq_hNC_C3m5ErBJNf1RWyx2jeYvmH2byE/edit?usp=sharing)
 
 ## THE FUTURE OF DOL-PD
-As of 8/31/2023, DOL-PD V1 has been completed and released publicly. Going forward, there are 3 main goals for the DOL-PD project:
+As of 9/3/2023, DOL-PD V1 has been completed and released publicly. Going forward, there are 3 main goals for the DOL-PD project:
 * Create DOL-PD V2, utilizing an integrated buck converter to allow the Gamecube to take in 15V and step down to 12V. This should greatly increase compatibility with USB-PD chargers. V2 is also planned to utilize a different USB-C port from V1 to allow for a complete no-cut solution. I may also re-release V1 with this alternate USB-C port.
 * Create DOL-PD Rev-B, giving users the option to transfer their original Gamecube power button to maintain original power button feel and functionality.
 * Create DOL-PD EXT, an external version of DOL-PD that will not require any internal modification of the Gamecube. This will however require custom sourced Gamecube Male power port molds.
