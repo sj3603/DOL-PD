@@ -7,19 +7,19 @@ A repository for the DOL-PD project, implementing USB-C PD support for the Gamec
 <p align="justify"><em>Make sure to reference the license information at the bottom for more info</em></p>
 
 ## PARTS LIST
-* [Parts List](https://docs.google.com/spreadsheets/d/1rPVbGJX8rQoN7rI187_ITezFnfsLrNyPKBN4Mu2_UrU/edit?usp=sharing)
+* [Parts List](https://external.ink?to=/docs.google.com/spreadsheets/d/1rPVbGJX8rQoN7rI187_ITezFnfsLrNyPKBN4Mu2_UrU/edit?usp=sharing)
 
 *Be sure to use the list of parts under the V1 sheet! V2 is still in development and does not have finalized components*
 
 *Note: V1 currently utilizes HDR's 3D printed enclosure for the USB-C port. This enclosure is free to use under the CC BY-NC-ND 4.0 License, and therefore is free to use and redistribute, however is NOT USABLE FOR SALE. If you plan to use the DOL-PD to produce your own boards for sale, you must create your own USB-C shroud. In the future, I may release a modified V1 board that uses an alternative USB-C port with a 3D printed enclosure of my own design that will be free use.*
 
 ## BOARD ASSEMBLY INSTRUCTIONS
-* [V1 Assembly Instructions](https://docs.google.com/document/d/1EoNc1ywIzINfLsrusN0_Oh6O5GwIsG2bt14rkOoPlFw/edit?usp=sharing)
+* [V1 Assembly Instructions](https://external.ink?to=/docs.google.com/document/d/1EoNc1ywIzINfLsrusN0_Oh6O5GwIsG2bt14rkOoPlFw/edit?usp=sharing)
 
 *An in depth board assembly instructional video is coming soon! In the meantime, a rudimentary google doc will be provided in its place.*
 
 ## SYSTEM INSTALL INSTRUCTIONS
-* [Install Instructions](https://docs.google.com/document/d/1jQh1p8UBnYjq_hNC_C3m5ErBJNf1RWyx2jeYvmH2byE/edit?usp=sharing)
+* [Install Instructions](https://external.ink?to=/docs.google.com/document/d/1jQh1p8UBnYjq_hNC_C3m5ErBJNf1RWyx2jeYvmH2byE/edit?usp=sharing)
 
 ## THE FUTURE OF DOL-PD
 As of 8/31/2023, DOL-PD V1 has been completed and released publicly. Going forward, there are 3 main goals for the DOL-PD project:
@@ -29,9 +29,9 @@ As of 8/31/2023, DOL-PD V1 has been completed and released publicly. Going forwa
 
 ## SPECIAL THANKS
 This project couldn't have been possible without help from members of the Bitbuilt community, but I'd also like to give a special thanks to these modders, go check them out!
-* [YveltalGriffin](https://github.com/mackieks) - For his amazing help troubleshooting and teaching me about pcb design and routing! 
-* [Greg from Laser Bear Industries](https://twitter.com/collingall) - For his help researching parts and understanding power management! (Check out his shop for some other cool GameCube mods!)
-* [HDR](https://twitter.com/MartinRefseth) - For providing the initial inspiration for this project with his GC_PD project (Check out his twitter for updates on future sales of his board!)
+* [YveltalGriffin](https://external.ink?to=/github.com/mackieks) - For his amazing help troubleshooting and teaching me about pcb design and routing! 
+* [Greg from Laser Bear Industries](https://external.ink?to=/twitter.com/collingall) - For his help researching parts and understanding power management! (Check out his shop for some other cool GameCube mods!)
+* [HDR](https://external.ink?to=/twitter.com/MartinRefseth) - For providing the initial inspiration for this project with his GC_PD project (Check out his twitter for updates on future sales of his board!)
 
 ## LICENSE
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
