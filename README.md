@@ -29,9 +29,9 @@ As of 8/31/2023, DOL-PD V1 has been completed and released publicly. Going forwa
 
 ## SPECIAL THANKS
 This project couldn't have been possible without help from members of the Bitbuilt community, but I'd also like to give a special thanks to these modders, go check them out!
-* [YveltalGriffin](https://twitter.com/YveltalGriffin)
-* [Greg from Laser Bear Industries](https://twitter.com/collingall)
-* [HDR](https://twitter.com/MartinRefseth)
+* [YveltalGriffin](https://twitter.com/YveltalGriffin) - For his amazing help troubleshooting and teaching me about pcb design and routing!
+* [Greg from Laser Bear Industries](https://twitter.com/collingall) - For his help researching parts and understanding power management! (You'll see this pay off in V2)
+* [HDR](https://twitter.com/MartinRefseth) - For providing the initial inspiration for this project with his GC_PD project (Check out his twitter for updates on future sales of his board!)
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
