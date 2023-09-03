@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CH224K
+D ESSOP-10 USB ICs ROHS
+K
+F https://datasheet.lcsc.com/lcsc/2204251615_WCH-Jiangsu-Qin-Heng-CH224K_C970725.pdf
+$ENDCMP
+#
+#End Doc Library
