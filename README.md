@@ -30,7 +30,7 @@ As of 8/31/2023, DOL-PD V1 has been completed and released publicly. Going forwa
 ## SPECIAL THANKS
 This project couldn't have been possible without help from members of the Bitbuilt community, but I'd also like to give a special thanks to these modders, go check them out!
 * [YveltalGriffin](https://twitter.com/YveltalGriffin)
-* [Greg from Laser Bear](https://twitter.com/collingall)
+* [Greg from Laser Bear Industries](https://twitter.com/collingall)
 * [HDR](https://twitter.com/MartinRefseth)
 
 ## LICENSE
